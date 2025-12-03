@@ -51,6 +51,9 @@ All the project is controlled by the shell script **c-wire.sh**, which uses bash
 - `/Code_c/main.c`           ---> Source code for building AVL and computing the consumption and capacity.
 - `/Code_c/avl.c`            ---> All functions used by `main.c`.
 
+
+<img width="722" height="468" alt="image" src="https://github.com/user-attachments/assets/a295569a-6894-4077-a14f-e67aa6a6858f" />
+
 ### Directories
 - `tmp/`              ---> Is a folder for temporary files. This folder is cleaned before new execution.
 - `test/`             ---> Is a folder containing last result files of previous execution.
@@ -59,6 +62,7 @@ All the project is controlled by the shell script **c-wire.sh**, which uses bash
 
 ## Special command
 - `make clean` to delete exe and clean temporary files.
+
 
 
 
