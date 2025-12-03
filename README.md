@@ -52,7 +52,8 @@ All the project is controlled by the shell script **c-wire.sh**, which uses bash
 - `/Code_c/avl.c`            ---> All functions used by `main.c`.
 
 
-<img width="722" height="468" alt="image" src="https://github.com/user-attachments/assets/a295569a-6894-4077-a14f-e67aa6a6858f" />
+<img width="1660" height="140" alt="image" src="https://github.com/user-attachments/assets/13de322e-87e9-457e-bb57-4921a6302866" />
+
 
 ### Directories
 - `tmp/`              ---> Is a folder for temporary files. This folder is cleaned before new execution.
@@ -62,6 +63,7 @@ All the project is controlled by the shell script **c-wire.sh**, which uses bash
 
 ## Special command
 - `make clean` to delete exe and clean temporary files.
+
 
 
 
